@@ -1,0 +1,2 @@
+# Shine
+A weather app
