@@ -27,7 +27,6 @@ const Landing = () => {
                 main: data.weather[0].main,
                 hue: 2 * ((data.main.temp - kal) * -1) + 120,
             }))
-
     }
 
     return <>
